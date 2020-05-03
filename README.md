@@ -1,9 +1,9 @@
-#ICSML 2019 Course Final Project Report
+# ICSML 2019 Course Final Project Report
 
 Data Mining and Business Intelligence with its applications in Cyber Security
 
 
-#Analysis of Phishing Detection using SHAP
+# Analysis of Phishing Detection using SHAP
 
 ## Abstract
 
